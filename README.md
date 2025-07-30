@@ -1,9 +1,9 @@
 # Movimentação de Peças Xadrez
-# ♟️ Jogo de Xadrez
+# Jogo de Xadrez
 
 Este projeto é uma versão simplificada do **jogo de Xadrez**, desenvolvida em linguagem C como exercício de lógica, uso de matrizes e estruturação de regras complexas.
 
-## 🎮 Como funciona
+## Como funciona
 
 - O tabuleiro é representado por uma matriz 8x8.
 - Cada peça é representada por um caractere específico.
@@ -13,13 +13,13 @@ Este projeto é uma versão simplificada do **jogo de Xadrez**, desenvolvida em 
 
 > Esta versão pode conter apenas parte das regras oficiais, dependendo da implementação (ex: sem roque, en passant ou cheque-mate).
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Linguagem C
 - Compilador GCC
 - Terminal (modo texto)
 
-## 🚀 Objetivos do projeto
+## Objetivos do projeto
 
 - Praticar:
   - Lógica de programação
@@ -27,7 +27,7 @@ Este projeto é uma versão simplificada do **jogo de Xadrez**, desenvolvida em 
   - Controle de turnos
   - Implementação de regras de movimento
 
-## ▶️ Como compilar e executar
+## Como compilar e executar
 
 Use o terminal para compilar e rodar:
 
